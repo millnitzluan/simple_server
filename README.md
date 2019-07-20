@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Simle Elixir Server 👋</h1>
+<h1 align="center">Welcome to Simple Elixir Server 👋</h1>
 <p>
   <a href="https://twitter.com/millnitzluan">
     <img alt="Twitter: millnitzluan" src="https://img.shields.io/twitter/follow/millnitzluan.svg?style=social" target="_blank" />
